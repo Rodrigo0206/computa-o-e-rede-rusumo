@@ -2,7 +2,7 @@
 resumo da aula
 
 
-Assisti às aulas do Módulo 2 da AZ-900, que trataram de Arquitetura e Serviços do Azure, com foco em computação e rede. Aprendi a comparar diferentes tipos de computação no Azure, como máquinas virtuais (VMs), contêineres, funções (Functions) e a Área de Trabalho Virtual.
+Assisti às aulas do Módulo da AZ-900, que trataram de Arquitetura e Serviços do Azure, com foco em computação e rede. Aprendi a comparar diferentes tipos de computação no Azure, como máquinas virtuais (VMs), contêineres, funções (Functions) e a Área de Trabalho Virtual.
 Vi que as máquinas virtuais oferecem controle total sobre o sistema,Já os conjuntos de dimensionamento de VMs permitem escalar recursos horizontalmente de forma automática, o que ajuda a manter a performance da aplicação de acordo com a demanda.
 Quanto à rede, entendi como funciona a Rede Virtual do Azure (VNet), que conecta recursos dentro e fora da nuvem. Aprendi sobre pontos de extremidade públicos e privados, sub-redes, emparelhamento de rede, além dos serviços de conectividade como Gateway de VPN (via Internet) e ExpressRoute (via conexão privada).
 No geral, foi uma introdução bem completa sobre como o Azure oferece flexibilidade para diferentes cenários de computação e conectividade, tanto para aplicações tradicionais quanto para soluções modernas e escaláveis.
